@@ -78,6 +78,7 @@ button:hover {
 }
 @media (min-width: 600px) {
   .container {
+    margin: 140px auto;
     display: flex;
     width: 918px;
   }
